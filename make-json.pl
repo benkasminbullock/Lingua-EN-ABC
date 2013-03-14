@@ -25,6 +25,12 @@ for my $entry (@entries) {
     if ($entry->{o} && $entry->{o} eq 't') {
 	$bits{oxford} = JSON::true;
     }
+    if ($bits{m}) {
+	$bits{bam} = JSON::true;
+    }
+    if ($bits{n}) {
+	$bits{aam} = JSON::true;
+    }
     push @stuff, \%bits;
 }
 my $json = to_json (\@stuff);

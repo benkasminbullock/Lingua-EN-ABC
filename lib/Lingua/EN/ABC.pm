@@ -56,7 +56,7 @@ sub a2b
     my ($text, %options) = @_;
     my $oxford = $options{oxford};
     for my $e (@$abc) {
-	if ($oxford && $e->{o}) {
+	if ($oxford && $e->{oxford}) {
 	    # Skip spellings marked as Oxford.
 	    next;
 	}
@@ -80,14 +80,29 @@ sub b2a
 
 sub a2c
 {
-my ($text) = @_;
-return $text;
+    my ($text) = @_;
+    return $text;
 }
 
 sub c2a
 {
-my ($text) = @_;
-return $text;
+    my ($text) = @_;
+    for my $e (@$abc) {
+	if ($e->{oxford} || $e->{ca}) {
+	    # Skip spellings marked as Oxford and spellings where
+	    # Canadian is the same as American.
+	    next;
+	}
+	my $american = $e->{a};
+	my $canadian = $e->{b};
+	if ($e->{bam}) {
+	    # The British spelling is ambiguous, e.g. metre/meter,
+	    # programme/program.
+	    $canadian .= "/$e->{a}";
+	}
+	$text =~ s/\b$american\b/$canadian/g;
+    }
+    return $text;
 }
 
 sub c2b

@@ -1,3 +1,11 @@
+# The fields are
+# b: British spelling
+# a: American spelling
+# c: a or b depending on whether Canadian uses British or American.
+# o: true if this is a case of "Oxford spelling", e.g. "realize".
+# m: The British spelling is ambiguous, e.g. meter/metre, tire/tyre.
+# n: The American spelling is ambiguous, e.g. vise/vice.
+
 b: ageing
 a: aging
 c: b
@@ -287,7 +295,7 @@ c: b
 
 b: kerb
 a: curb
-c: b
+c: a
 
 b: kilogramme
 a: kilogram
@@ -348,6 +356,7 @@ c: b
 b: metre
 a: meter
 c: b
+m: t
 
 b: micrometre
 a: micrometer
@@ -416,6 +425,7 @@ c: b
 b: organise
 a: organize
 c: b
+o: t
 
 b: orthopaedic
 a: orthopedic
@@ -443,7 +453,7 @@ c: b
 
 b: plough
 a: plow
-c: b
+c: a
 
 b: popularisation
 a: popularization
@@ -608,6 +618,7 @@ b: vice
 a: vise
 c: b
 m: t
+n: t
 
 b: vigour
 a: vigor
@@ -625,3 +636,6 @@ b: Dr
 a: Dr.
 c: a
 
+b: got
+a: gotten
+c: a
