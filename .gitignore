@@ -1,0 +1,8 @@
+# Generated from Makefile.PL
+Makefile
+# Ignore distribution files.
+Lingua-EN-ABC-/
+*.tar.gz
+# Ignore outputs of XS compilation.
+ABC.c
+ABC.bs
