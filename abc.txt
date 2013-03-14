@@ -1,0 +1,627 @@
+b: ageing
+a: aging
+c: b
+
+b: aluminium
+a: aluminum
+c: b
+
+b: amphitheatre
+a: amphitheater
+c: b
+
+b: anaesthesia
+a: anesthesia
+c: b
+
+b: analogue
+a: analog
+c: a
+
+b: analyse
+a: analyze
+c: b
+o: t
+
+b: apologise
+a: apologize
+c: b
+o: t
+
+b: appetiser
+a: appetizer
+c: b
+o: t
+
+b: arbour
+a: arbor
+c: b
+
+b: archaeology
+a: archeology
+c: b
+
+b: ardour
+a: ardor
+c: b
+
+b: armour
+a: armor
+c: b
+
+b: armoury
+a: armory
+c: b
+
+b: behaviour
+a: behavior
+c: b
+
+b: misbehaviour
+a: misbehavior
+c: b
+
+b: behavioural
+a: behavioral
+c: b
+
+b: behaviourism
+a: behaviorism
+c: b
+
+b: belabour
+a: belabor
+c: b
+
+b: calibre
+a: caliber
+c: b
+
+b: candour
+a: candor
+c: b
+
+b: catalogue
+a: catalog
+c: a
+
+b: catalyse
+a: catalyze
+c: b
+
+b: centilitre
+a: centiliter
+c: b
+
+b: centimetre
+a: centimeter
+c: b
+
+b: centre
+a: center
+c: b
+
+b: centred
+a: centered
+c: b
+
+b: centring
+a: centering
+c: b
+
+b: cheque
+a: check
+c: b
+
+b: civilisation
+a: civilization
+c: b
+
+b: civilise
+a: civilize
+c: b
+
+b: clamour
+a: clamor
+c: b
+
+b: colonisation
+a: colonization
+c: b
+
+b: colonise
+a: colonize
+c: b
+
+b: colour
+a: color
+c: b
+
+b: colouration
+a: coloration
+c: b
+
+b: counsellor
+a: counselor
+c: b
+
+b: criticise
+a: criticize
+c: b
+
+b: decilitre
+a: deciliter
+c: b
+
+b: decimetre
+a: decimeter
+c: b
+
+b: defence
+a: defense
+c: b
+
+b: demeanour
+a: demeanor
+c: b
+
+b: dialogue
+a: dialog
+c: b
+
+b: dolourous
+a: dolorous
+c: b
+
+b: draught
+a: draft
+c: b
+
+b: emphasise
+a: emphasize
+c: b
+
+b: enamour
+a: enamor
+c: b
+
+b: encyclopaedia
+a: encyclopedia
+c: b
+
+b: endeavour
+a: endeavor
+c: b
+
+b: enrolment
+a: enrollment
+c: b
+
+b: epicentre
+a: epicenter
+c: b
+
+b: favour
+a: favor
+c: b
+
+b: favourable
+a: favorable
+c: b
+
+b: favourite
+a: favorite
+c: b
+
+b: favouritism
+a: favoritism
+c: b
+
+b: fervour
+a: fervor
+c: b
+
+b: fibre
+a: fiber
+c: b
+
+b: flavour
+a: flavor
+c: b
+
+b: fuelled
+a: fueled
+c: b
+
+b: fulfil
+a: fulfill
+c: b
+
+b: glamour
+a: glamour
+c: b
+
+b: goitre
+a: goiter
+c: b
+
+b: gramme
+a: gram
+c: b
+
+b: grey
+a: gray
+c: b
+
+b: gynaecology
+a: gynecology
+c: b
+
+b: harbour
+a: harbor
+c: b
+
+b: honour
+a: honor
+c: b
+
+b: honourable
+a: honorable
+c: b
+
+b: humour
+a: humor
+c: b
+
+b: instalment
+a: installment
+c: b
+
+b: jewellery
+a: jewelery
+c: b
+
+b: judgement
+a: judgment
+c: b
+
+b: kerb
+a: curb
+c: b
+
+b: kilogramme
+a: kilogram
+c: b
+
+b: kilometre
+a: kilometer
+c: b
+
+b: labour
+a: labor
+c: b
+
+b: lacklustre
+a: lackluster
+c: b
+
+b: leukaemia
+a: leukemia
+c: b
+
+b: licence
+a: license
+c: b
+
+b: litre
+a: liter
+c: b
+
+b: louvre
+a: louver
+c: b
+
+b: lustre
+a: luster
+c: b
+
+b: manoeuvre
+a: maneuver
+c: b
+
+b: marvellous
+a: marvelous
+c: b
+
+b: meagre
+a: meager
+c: b
+
+b: mediaeval
+a: medieval
+c: b
+
+b: mementoes
+a: mementos
+c: b
+
+b: metre
+a: meter
+c: b
+
+b: micrometre
+a: micrometer
+c: b
+
+b: millilitre
+a: milliliter
+c: b
+
+b: millimetre
+a: millimeter
+c: b
+
+b: misdemeanour
+a: misdemeanor
+c: b
+
+b: mitre
+a: miter
+c: b
+
+b: mitred
+a: mitered
+c: b
+
+b: monologue
+a: monolog
+c: b
+
+b: mould
+a: mold
+c: b
+
+b: mum
+a: mom
+c: b
+
+b: mummy
+a: mommy
+c: b
+
+b: neighbour
+a: neighbor
+c: b
+
+b: odour
+a: odor
+c: b
+
+b: oestrogen
+a: estrogen
+c: b
+
+b: offence
+a: offense
+c: b
+
+b: offence
+a: offense
+c: b
+
+b: omelette
+a: omelet
+c: b
+
+b: organise
+a: organize
+c: b
+
+b: orthopaedic
+a: orthopedic
+c: b
+
+b: paediatric
+a: pediatric
+c: b
+
+b: palaeontology
+a: paleontology
+c: b
+
+b: parallelled
+a: paralleled
+c: b
+
+b: parlour
+a: parlor
+c: b
+
+b: philtre
+a: philter
+c: b
+
+b: plough
+a: plow
+c: b
+
+b: popularisation
+a: popularization
+c: b
+
+b: popularise
+a: popularize
+c: b
+
+b: practise
+a: practice
+c: b
+
+b: practising
+a: practicing
+c: b
+
+b: pretence
+a: pretense
+c: b
+
+b: prise
+a: prize
+c: b
+
+b: programme
+a: program
+c: b
+
+b: pyjamas
+a: pajamas
+c: b
+
+b: quarrelling
+a: quarreling
+c: b
+
+b: rancour
+a: rancor
+c: b
+
+b: realise
+a: realize
+c: b
+o: t
+
+b: recognise
+a: recognize
+c: b
+o: t
+
+b: reconnoitre
+a: reconnoiter
+c: b
+
+b: reconnoitred
+a: reconnoitered
+c: b
+
+b: reconnoitring
+a: reconnoitering
+c: b
+
+b: rigour
+a: rigor
+c: b
+
+b: rumour
+a: rumor
+c: b
+
+b: sabre
+a: saber
+c: b
+
+b: saltpetre
+a: saltpeter
+c: b
+
+b: saviour
+a: savior
+c: b
+
+b: saviour
+a: savior
+c: b
+
+b: savour
+a: savor
+c: b
+
+b: sceptic
+a: skeptic
+c: b
+
+b: sceptre
+a: scepter
+c: b
+
+b: sceptred
+a: sceptered
+c: b
+
+b: sepulchre
+a: sepulcher
+c: b
+
+b: skilful
+a: skillful
+c: b
+
+b: spectre
+a: specter
+c: b
+
+b: splendour
+a: splendor
+c: b
+
+b: succour
+a: succor
+c: b
+
+b: sulphur
+a: sulfur
+c: b
+
+b: tambourine
+a: tamborine
+c: b
+
+b: theatre
+a: theater
+c: b
+
+b: toxaemia
+a: toxemia
+c: b
+
+b: travelling
+a: traveling
+c: b
+
+b: tumour
+a: tumor
+c: b
+
+b: tyre
+a: tire
+c: a
+m: t
+
+b: valour
+a: valor
+c: b
+
+b: vapour
+a: vapor
+c: b
+
+b: vice
+a: vise
+c: b
+m: t
+
+b: vigour
+a: vigor
+c: b
+
+b: woollen
+a: woolen
+c: b
+
+b: Mr
+a: Mr.
+c: a
+
+b: Dr
+a: Dr.
+c: a
+

@@ -1,8 +1,8 @@
 # Generated from Makefile.PL
 Makefile
 # Ignore distribution files.
-Lingua-EN-ABC-/
+Lingua-EN-ABC-*
 *.tar.gz
-# Ignore outputs of XS compilation.
-ABC.c
-ABC.bs
+pm_to_blib
+MYMETA.*
+lib/Lingua/EN/ABC/abc.json
