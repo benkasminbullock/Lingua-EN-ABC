@@ -481,7 +481,7 @@ c: b
 
 b: programme
 a: program
-c: b
+c: a
 
 b: pyjamas
 a: pajamas

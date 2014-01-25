@@ -1,0 +1,40 @@
+#!/home/ben/software/install/bin/perl
+use warnings;
+use strict;
+use lib '/home/ben/projects/Lingua-EN-ABC/lib';
+use Lingua::EN::ABC ':all';
+use Getopt::Long;
+
+GetOptions (
+    "from=s" => \my $from,
+    "to=s" => \my $to,
+    "oxford" => \my $oxford,
+);
+
+my $f = 'a';
+if ($from) {
+    $f = substr (lc $from, 0, 1);
+}
+my $t = 'b';
+if ($to) {
+    $t = substr (lc $to, 0, 1);
+}
+if ($f eq $t) {
+    die "Convert $from to $to? You must be joking.\n";
+}
+my %langs = map {$_ => 1} qw/a b c/;
+if (! $langs{$f} || ! $langs{$t}) {
+    die "You have dared to ask me to convert $from to $to.\n"
+}
+my $sub = "${f}2$t";
+no strict 'refs';
+my %options;
+if ($oxford) {
+    $options{oxford} = 1;
+}
+print &{$sub} ("@ARGV", %options), "\n";
+
+
+# Local variables:
+# mode: perl
+# End:

@@ -1,0 +1,12 @@
+Revision history for perl module Lingua::EN::ABC
+
+0.03 2014-01-25
+
+* Add "README", minimum Perl version.
+
+0.02 2013-11-28
+
+* Add "Changes"
+* Add "script/econv", a command-line program to convert Englishes.
+
+0.01 2013-03-16
