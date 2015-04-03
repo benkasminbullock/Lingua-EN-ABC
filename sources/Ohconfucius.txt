@@ -1,0 +1,1859 @@
+# This is from "http://en.wikipedia.org/wiki/User:Ohconfucius/U.S._Spelling_versus_British_and_Canadian_Spellings"
+
+
+{| class="wikitable" <hiddentext>generated with [[:de:Wikipedia:Helferlein/VBA-Macro for EXCEL tableconversion]] V1.7<\hiddentext>
+|-   valign="bottom"
+| width="79" height="13" | '''U.S.''' 
+| width="87" | '''British'''
+| width="87" | '''Canadian'''
+| width="56" | '''Canadian''' ''(alt)''
+
+|-   valign="bottom"
+| height="13" | acknowledgment
+ | acknowledgement
+ | acknowledgement
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | aging
+ | ageing
+ | aging
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | airplane
+ | aeroplane
+ | airplane
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | aluminum
+ | aluminium
+ | aluminum
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | amortize
+ | amortise
+ | amortize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | amphitheater
+ | amphitheatre
+ | amphitheatre
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | analog
+ | analogue
+ | analogue
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | analyze
+ | analyse
+ | analyze
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | anemia
+ | anaemia
+ | anemia
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | anemic
+ | anaemic
+ | anemic
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | anesthesia
+ | anaesthesia
+ | anaesthesia
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | anesthetic
+ | anaesthetic
+ | anaesthetic
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | apnea
+ | apnoea
+ | apnea
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | apologize
+ | apologise
+ | apologize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | appall
+ | appal
+ | appall
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | appetizer
+ | appetiser
+ | appetizer
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | arbor
+ | arbour
+ | arbour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | archeology
+ | archaeology
+ | archaeology
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | ardor
+ | ardour
+ | ardour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | armor
+ | armour
+ | armour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | armory
+ | armoury
+ | armoury
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | artifact
+ | artefact
+ | artifact
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | authorize
+ | authorise
+ | authorize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | ax
+ | axe
+ | axe
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | bandanna
+ | bandanna
+ | bandana
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | baptize
+ | baptise
+ | baptize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | barreled
+ | barrelled
+ | barrelled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | barreling
+ | barrelling
+ | barrelling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | behavior
+ | behaviour
+ | behaviour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | behoove
+ | behove
+ | behoove
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | belabor
+ | belabour
+ | belabour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | Breathalyzer
+ | Breathalyser
+ | Breathalyzer
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | burned
+ | burnt
+ | burned
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | bused
+ | bussed
+ | bused
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | busing
+ | bussing
+ | busing
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | caldron
+ | cauldron
+ | cauldron
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | caliber
+ | calibre
+ | calibre
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | canceled
+ | cancelled
+ | cancelled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | canceling
+ | cancelling
+ | cancelling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | candor
+ | candour
+ | candour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | capitalize
+ | capitalise
+ | capitalize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | caramelize
+ | caramelise
+ | caramelize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | carburetor
+ | carburettor
+ | carburetor
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | catalog
+ | catalogue
+ | catalogue
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | catalyze
+ | catalyse
+ | catalyze
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | categorize
+ | categorise
+ | categorize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | cauterize
+ | cauterise
+ | cauterize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | center
+ | centre
+ | centre
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | centering
+ | centring
+ | centring
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | centimeter
+ | centimetre
+ | centimetre
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | centralize
+ | centralise
+ | centralize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | Cesarean
+ | Caesarean
+ | Caesarian
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | characterize
+ | characterise
+ | characterize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | check
+ | cheque
+ | cheque
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | checkered
+ | chequered
+ | checkered
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | chili
+ | chilli
+ | chili
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | civilization
+ | civilisation
+ | civilization
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | civilize
+ | civilise
+ | civilize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | clamor
+ | clamour
+ | clamour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | collectible
+ | collectable
+ | collectible
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | colonize
+ | colonise
+ | colonize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | color
+ | colour
+ | colour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | commercialize
+ | commercialise
+ | commercialize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | computerize
+ | computerise
+ | computerize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | convener
+ | convenor
+ | convenor
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | costumer
+ | costumier
+ | costumer
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | councilor
+ | councillor
+ | councillor
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | counseled
+ | counselled
+ | counselled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | counseling
+ | counselling
+ | counselling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | counselor
+ | counsellor
+ | counsellor
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | cozy
+ | cosy
+ | cozy
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | criticize
+ | criticise
+ | criticize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | crystallization
+ | crystallisation
+ | crystallization
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | crystallize
+ | crystallise
+ | crystallize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | curb
+ | kerb
+ | curb
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | customize
+ | customise
+ | customize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | defense
+ | defence
+ | defence
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | demeanor
+ | demeanour
+ | demeanour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | dependent
+ | dependant
+ | dependant
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | diarrhea
+ | diarrhoea
+ | diarrhea
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | dietician
+ | dietician
+ | dietitian
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | digitize
+ | digitise
+ | digitize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | disheveled
+ | dishevelled
+ | dishevelled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | dolor
+ | dolour
+ | dolour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | donut
+ | doughnut
+ | doughnut
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | dreamed
+ | dreamt
+ | dreamt
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | dueled
+ | duelled
+ | dueled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | dueling
+ | duelling
+ | duelling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | edema
+ | oedema
+ | edema
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | empathize
+ | empathise
+ | empathize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | emphasize
+ | emphasise
+ | emphasize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | enamor
+ | enamour
+ | enamour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | endeavor
+ | endeavour
+ | endeavour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | enroll
+ | enrol
+ | enrol
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | enrollment
+ | enrolment
+ | enrolment
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | enthrall
+ | enthral
+ | enthrall
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | enthrallment
+ | enthralment
+ | enthrallment
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | eon
+ | aeon
+ | eon
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | epicenter
+ | epicentre
+ | epicentre
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | equaled
+ | equalled
+ | equalled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | equaling
+ | equalling
+ | equalling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | equalization
+ | equalisation
+ | equalization
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | equalize
+ | equalise
+ | equalize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | esophagus
+ | oesophagus
+ | esophagus
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | estrogen
+ | oestrogen
+ | estrogen
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | familiarize
+ | familiarise
+ | familiarize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | favor
+ | favour
+ | favour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | hemophilia
+ | haemophilia
+ | hemophilia
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | hemorrhage
+ | haemorrhage
+ | hemorrhage
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | honor
+ | honour
+ | honour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | honorable
+ | honourable
+ | honourable
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | honored
+ | honoured
+ | honoured
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | honoring
+ | honouring
+ | honouring
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | hospitalize
+ | hospitalise
+ | hospitalize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | humor
+ | humour
+ | humour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | hyperglycemia
+ | hyperglycaemia
+ | hyperglycemia
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | hypnotize
+ | hypnotise
+ | hypnotize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | hypoglycemia
+ | hypoglycaemia
+ | hypoglycemia
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | hypothesize
+ | hypothesise
+ | hypothesize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | idolize
+ | idolise
+ | idolize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | immortalize
+ | immortalise
+ | immortalize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | immunization
+ | immunisation
+ | immunization
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | immunize
+ | immunise
+ | immunize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | industrialization
+ | industrialisation
+ | industrialization
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | industrialize
+ | industrialise
+ | industrialize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | initialize
+ | initialise
+ | initialize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | inquiry
+ | enquiry
+ | inquiry
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | installment
+ | instalment
+ | instalment*
+ |  installment
+
+|-   valign="bottom"
+| height="13" | institutionalize
+ | institutionalise
+ | institutionalize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | ionize
+ | ionise
+ | ionize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | jail
+ | gaol
+ | jail
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | jeweled
+ | jewelled
+ | jewelled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | jeweler
+ | jeweller
+ | jeweller
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | jewelry
+ | jewellery
+ | jewellery*
+ |  jewelry
+
+|-   valign="bottom"
+| height="13" | judgment
+ | judgement
+ | judgement
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | labeled
+ | labelled
+ | labelled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | labeling
+ | labelling
+ | labelling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | labor
+ | labour
+ | labour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | laborer
+ | labourer
+ | labourer
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | lasagna
+ | lasagne
+ | lasagna
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | leaned
+ | leant
+ | leaned
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | learned
+ | learnt
+ | learned
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | legalize
+ | legalise
+ | legalize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | leukemia
+ | leukaemia
+ | leukemia
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | leveled
+ | levelled
+ | levelled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | leveling
+ | levelling
+ | levelling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | libeled
+ | libelled
+ | libelled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | libeler
+ | libeller
+ | libeller
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | libelous
+ | libellous
+ | libellous
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | license
+ | (noun)licence
+ | licence
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | licorice
+ | liquorice
+ | licorice
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | liter
+ | litre
+ | litre
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | louver
+ | louvre
+ | louvre
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | louvered
+ | louvred
+ | louvred
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | luster
+ | lustre
+ | lustre
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | maneuver
+ | manoeuvre
+ | manoeuvre
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | marveled
+ | marvelled
+ | marvelled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | marveling
+ | marvelling
+ | marvelling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | marvelous
+ | marvellous
+ | marvellous
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | math
+ | maths
+ | math
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | maximize
+ | maximise
+ | maximize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | meager
+ | meagre
+ | meagre
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | memorialize
+ | memorialise
+ | memorialize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | memorize
+ | memorise
+ | memorize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | mesmerize
+ | mesmerise
+ | mesmerize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | meter
+ | metre
+ | metre
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | militarize
+ | militarise
+ | militarize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | miniaturization
+ | miniaturisation
+ | miniaturization
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | miniaturize
+ | miniaturise
+ | miniaturize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | minimize
+ | minimise
+ | minimize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | misdemeanor
+ | misdemeanour
+ | misdemeanour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | miter
+ | mitre
+ | mitre
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | mobilize
+ | mobilise
+ | mobilize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | modeled
+ | modelled
+ | modelled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | modeling
+ | modelling
+ | modelling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | mold
+ | mould
+ | mould
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | molder
+ | moulder
+ | moulder
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | mollusk
+ | mollusc
+ | mollusc
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | molt
+ | moult
+ | moult
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | mustache
+ | moustache
+ | moustache
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | naïveté
+ | naivety
+ | naïveté
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | neighbor
+ | neighbour
+ | neighbour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | neighborhood
+ | neighbourhood
+ | neighbourhood
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | neutralize
+ | neutralise
+ | neutralize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | ocher
+ | ochre
+ | ochre
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | odor
+ | odour
+ | odour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | offense
+ | offence
+ | offence
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | omelet
+ | omelette
+ | omelette
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | optimization
+ | optimisation
+ | optimization
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | optimize
+ | optimise
+ | optimize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | organization
+ | organisation
+ | organization
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | organize
+ | organise
+ | organize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | orient
+ | orientate
+ | orient
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | oriented
+ | orientated
+ | oriented
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | orthopedic
+ | orthopaedic
+ | orthopaedic
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | oxidize
+ | oxidise
+ | oxidize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | pajamas
+ | pyjamas
+ | pyjamas
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | Paleocene
+ | Palaeocene
+ | Paleocene
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | paneled
+ | panelled
+ | panelled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | paralleled
+ | parallelled
+ | paralleled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | paralleling
+ | parallelling
+ | paralleling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | paralyze
+ | paralyse
+ | paralyze*
+ |  paralyse
+
+|-   valign="bottom"
+| height="13" | parlor
+ | parlour
+ | parlour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | pasteurize
+ | pasteurise
+ | pasteurize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | pediatrics
+ | paediatrics
+ | pediatrics
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | pedophile
+ | paedophile
+ | pedophile
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | penalization
+ | penalisation
+ | penalization
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | penalize
+ | penalise
+ | penalize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | personalize
+ | personalise
+ | personalize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | philosophize
+ | philosophise
+ | philosophize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | plagiarize
+ | plagiarise
+ | plagiarize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | plow
+ | plough
+ | plow
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | polarize
+ | polarise
+ | polarize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | practice
+ | (verb)practise
+ | practise
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | pretense
+ | pretence
+ | pretense
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | prioritize
+ | prioritise
+ | prioritize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | privatize
+ | privatise
+ | privatize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | program
+ | programme
+ | program
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | pulverize
+ | pulverise
+ | pulverize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | pummeled
+ | pummelled
+ | pummelled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | pummeling
+ | pummelling
+ | pummelling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | rancor
+ | rancour
+ | rancour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | realize
+ | realise
+ | realize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | recognize
+ | recognise
+ | recognize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | repellent
+ | repellant
+ | repellent
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | reveled
+ | revelled
+ | revelled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | reveler
+ | reveller
+ | reveller
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | reveling
+ | revelling
+ | revelling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | rigor
+ | rigour
+ | rigour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | rumor
+ | rumour
+ | rumour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | saber
+ | sabre
+ | sabre
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | sanitization
+ | sanitisation
+ | sanitization
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | sanitize
+ | sanitise
+ | sanitize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | sapor
+ | sapour
+ | sapour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | savior
+ | saviour
+ | saviour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | savor
+ | savour
+ | savour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | savory
+ | savoury
+ | savoury
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | scepter
+ | sceptre
+ | sceptre
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | scrutinize
+ | scrutinise
+ | scrutinize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | sensationalize
+ | sensationalise
+ | sensationalize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | shriveled
+ | shrivelled
+ | shrivelled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | shriveling
+ | shrivelling
+ | shrivelling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | signaled
+ | signalled
+ | signalled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | signaler
+ | signaller
+ | signaller
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | signaling
+ | signalling
+ | signalling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | skeptic
+ | sceptic
+ | sceptic
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | skeptical
+ | sceptical
+ | sceptical
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | skillful
+ | skilful
+ | skilful
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | smelled
+ | smelt
+ | smelled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | smolder
+ | smoulder
+ | smoulder
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | snorkeled
+ | snorkelled
+ | snorkelled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | snorkeling
+ | snorkelling
+ | snorkelling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | somber
+ | sombre
+ | sombre
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | specialize
+ | specialise
+ | specialize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | specialty
+ | speciality
+ | specialty
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | specter
+ | spectre
+ | spectre
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | spiraled
+ | spiralled
+ | spiralled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | spiraling
+ | spiralling
+ | spiralling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | splendor
+ | splendour
+ | splendour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | stabilize
+ | stabilise
+ | stabilize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | standardization
+ | standardisation
+ | standardization
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | standardize
+ | standardise
+ | standardize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | sterilize
+ | sterilise
+ | sterilize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | stylize
+ | stylise
+ | stylize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | succor
+ | succour
+ | succour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | sulfur
+ | sulphur
+ | sulphur
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | summarize
+ | summarise
+ | summarize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | symbolize
+ | symbolise
+ | symbolize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | synthesize
+ | synthesise
+ | synthesize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | systemize
+ | systemise
+ | systemize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | theater
+ | theatre
+ | theatre
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | tidbit
+ | titbit
+ | tidbit
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | tire
+ | (noun)tyre
+ | tire
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | ton
+ | tonne
+ | tonne
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | totaled
+ | totalled
+ | totalled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | totaling
+ | totalling
+ | totalling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | toward
+ | towards
+ | toward
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | tranquility
+ | tranquillity
+ | tranquillity
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | tranquilize
+ | tranquillise
+ | tranquillize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | tranquilized
+ | tranquillised
+ | tranquillized
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | tranquilizer
+ | tranquilliser
+ | tranquillizer
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | tranquilizing
+ | tranquillising
+ | tranquillizing
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | traveled
+ | travelled
+ | travelled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | traveler
+ | traveller
+ | traveller
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | traveling
+ | travelling
+ | travelling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | triple
+ | treble
+ | triple
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | tumor
+ | tumour
+ | tumour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | tunneled
+ | tunnelled
+ | tunnelled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | tunneler
+ | tunneller
+ | tunneller
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | tunneling
+ | tunnelling
+ | tunnelling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | unionize
+ | unionise
+ | unionize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | utilize
+ | utilise
+ | utilize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | valor
+ | valour
+ | valour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | vapor
+ | vapour
+ | vapour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | vaporer
+ | vapourer
+ | vapourer
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | vaporization
+ | vaporisation
+ | vaporization
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | vaporize
+ | vaporise
+ | vaporize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | vaporizer
+ | vaporiser
+ | vaporizer
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | vigor
+ | vigour
+ | vigour
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | vise
+ | vice
+ | vice
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | visualize
+ | visualise
+ | visualize
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | willful
+ | wilful
+ | wilful
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | willfully
+ | wilfully
+ | wilfully
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | willfulness
+ | wilfulness
+ | wilfulness
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | woolen
+ | woollen
+ | woollen
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | yodeled
+ | yodelled
+ | yodelled
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | yodeling
+ | yodelling
+ | yodelling
+ | &nbsp;
+
+|-   valign="bottom"
+| height="13" | yogurt
+ | yogurt
+ | yogourt
+ | &nbsp;
+
+|}

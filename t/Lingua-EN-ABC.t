@@ -29,6 +29,15 @@ $canadian2 = b2c ($british);
 
 is ($canadian2, $canadian);
 
+# Github issue 1.
+
+TODO: {
+    local $TODO='case sensitivity';
+    my $am = 'Color program.';
+    my $br = a2b ($am);
+    is ($br, 'Colour programme.');
+}
+
 done_testing ();
 
 
