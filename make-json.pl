@@ -2,19 +2,13 @@
 use warnings;
 use strict;
 use Table::Readable 'read_table';
-use Deploy 'older';
 use FindBin;
 use JSON::Parse;
 use JSON::Create;
-use Devel::Peek;
 use boolean;
 
 my $outfile = "$FindBin::Bin/lib/Lingua/EN/ABC/abc.json";
 my $infile = "$FindBin::Bin/abc.txt";
-
-#if (! older ($outfile, $infile)) {
-#    exit;
-#}
 
 my @entries = read_table ($infile);
 
