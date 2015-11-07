@@ -22,10 +22,10 @@ for my $entry (@entries) {
     if ($entry->{o} && $entry->{o} eq 't') {
 	$bits{oxford} = true;
     }
-    if ($bits{m}) {
+    if ($entry->{m}) {
 	$bits{bam} = true;
     }
-    if ($bits{n}) {
+    if ($entry->{n}) {
 	$bits{aam} = true;
     }
     push @stuff, \%bits;

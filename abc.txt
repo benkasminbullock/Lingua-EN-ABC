@@ -5,6 +5,7 @@
 # o: true if this is a case of "Oxford spelling", e.g. "realize".
 # m: The British spelling is ambiguous, e.g. meter/metre, tire/tyre.
 # n: The American spelling is ambiguous, e.g. vise/vice.
+# A # at the start of a line is a comment.
 
 b: ageing
 a: aging
@@ -622,7 +623,6 @@ c: b
 b: vice
 a: vise
 c: b
-m: t
 n: t
 
 b: vigour
@@ -644,3 +644,911 @@ c: a
 b: got
 a: gotten
 c: a
+
+b: acknowledgement
+a: acknowledgment
+c: b
+
+b: aeroplane
+a: airplane
+c: a
+
+b: amortise
+a: amortize
+c: a
+o: t
+
+b: anaemia
+a: anemia
+c: a
+
+b: anaesthetic
+a: anesthetic
+c: b
+
+b: apnoea
+a: apnea
+c: a
+
+b: appal
+a: appall
+c: a
+
+b: artefact
+a: artifact
+c: a
+
+b: authorise
+a: authorize
+c: a
+o: t
+
+b: axe
+a: ax
+c: b
+
+b: bandanna
+a: bandanna
+c: bandana
+
+b: baptise
+a: baptize
+c: a
+o: t
+
+b: barrelled
+a: barreled
+c: b
+
+b: barrelling
+a: barreling
+c: b
+
+b: behove
+a: behoove
+c: a
+
+b: Breathalyser
+a: Breathalyzer
+c: a
+
+b: burnt
+a: burned
+c: a
+
+b: bussed
+a: bused
+c: a
+
+b: bussing
+a: busing
+c: a
+
+b: cauldron
+a: caldron
+c: b
+
+b: cancelled
+a: canceled
+c: b
+
+b: cancelling
+a: canceling
+c: b
+
+b: capitalise
+a: capitalize
+c: a
+o: t
+
+b: caramelise
+a: caramelize
+c: a
+o: t
+
+b: carburettor
+a: carburetor
+c: a
+
+b: categorise
+a: categorize
+c: a
+o: t
+
+b: cauterise
+a: cauterize
+c: a
+o: t
+
+b: centralise
+a: centralize
+c: a
+o: t
+
+b: Caesarean
+a: Cesarean
+c: Caesarian
+
+b: characterise
+a: characterize
+c: a
+o: t
+
+b: chequered
+a: checkered
+c: a
+
+b: collectable
+a: collectible
+c: a
+
+b: commercialise
+a: commercialize
+c: a
+o: t
+
+b: computerise
+a: computerize
+c: a
+o: t
+
+b: convenor
+a: convener
+c: b
+
+b: costumier
+a: costumer
+c: a
+
+b: councillor
+a: councilor
+c: b
+
+b: counselled
+a: counseled
+c: b
+
+b: counselling
+a: counseling
+c: b
+
+b: cosy
+a: cozy
+c: a
+o: t
+
+b: crystallisation
+a: crystallization
+c: a
+
+b: crystallise
+a: crystallize
+c: a
+o: t
+
+b: customise
+a: customize
+c: a
+o: t
+
+b: dependant
+a: dependent
+c: b
+
+b: diarrhoea
+a: diarrhea
+c: a
+
+b: dietician
+a: dietician
+c: dietitian
+
+b: digitise
+a: digitize
+c: a
+o: t
+
+b: dishevelled
+a: disheveled
+c: b
+
+b: dolour
+a: dolor
+c: b
+
+b: doughnut
+a: donut
+c: b
+
+b: dreamt
+a: dreamed
+c: b
+
+b: duelled
+a: dueled
+c: a
+
+b: duelling
+a: dueling
+c: b
+
+b: oedema
+a: edema
+c: a
+
+b: empathise
+a: empathize
+c: a
+o: t
+
+b: enrol
+a: enroll
+c: b
+
+b: enthral
+a: enthrall
+c: a
+
+b: enthralment
+a: enthrallment
+c: a
+
+b: aeon
+a: eon
+c: a
+
+b: equalled
+a: equaled
+c: b
+
+b: equalling
+a: equaling
+c: b
+
+b: equalisation
+a: equalization
+c: a
+
+b: equalise
+a: equalize
+c: a
+o: t
+
+b: oesophagus
+a: esophagus
+c: a
+
+b: familiarise
+a: familiarize
+c: a
+o: t
+
+b: haemophilia
+a: hemophilia
+c: a
+
+b: haemorrhage
+a: hemorrhage
+c: a
+
+b: honoured
+a: honored
+c: b
+
+b: honouring
+a: honoring
+c: b
+
+b: hospitalise
+a: hospitalize
+c: a
+o: t
+
+b: hyperglycaemia
+a: hyperglycemia
+c: a
+
+b: hypnotise
+a: hypnotize
+c: a
+o: t
+
+b: hypoglycaemia
+a: hypoglycemia
+c: a
+
+b: hypothesise
+a: hypothesize
+c: a
+o: t
+
+b: idolise
+a: idolize
+c: a
+o: t
+
+b: immortalise
+a: immortalize
+c: a
+o: t
+
+b: immunisation
+a: immunization
+c: a
+
+b: immunise
+a: immunize
+c: a
+o: t
+
+b: industrialisation
+a: industrialization
+c: a
+
+b: industrialise
+a: industrialize
+c: a
+o: t
+
+b: initialise
+a: initialize
+c: a
+o: t
+
+b: enquiry
+a: inquiry
+c: a
+
+b: institutionalise
+a: institutionalize
+c: a
+o: t
+
+b: ionise
+a: ionize
+c: a
+o: t
+
+b: gaol
+a: jail
+c: a
+
+b: jewelled
+a: jeweled
+c: b
+
+b: jeweller
+a: jeweler
+c: b
+
+b: jewellery
+a: jewelry
+c: b
+
+b: labelled
+a: labeled
+c: b
+
+b: labelling
+a: labeling
+c: b
+
+b: labourer
+a: laborer
+c: b
+
+b: lasagne
+a: lasagna
+c: a
+
+b: leant
+a: leaned
+c: a
+
+b: learnt
+a: learned
+c: a
+
+b: legalise
+a: legalize
+c: a
+o: t
+
+b: levelled
+a: leveled
+c: b
+
+b: levelling
+a: leveling
+c: b
+
+b: libelled
+a: libeled
+c: b
+
+b: libeller
+a: libeler
+c: b
+
+b: libellous
+a: libelous
+c: b
+
+b: liquorice
+a: licorice
+c: a
+
+b: louvred
+a: louvered
+c: b
+
+b: marvelled
+a: marveled
+c: b
+
+b: marvelling
+a: marveling
+c: b
+
+b: maths
+a: math
+c: a
+
+b: maximise
+a: maximize
+c: a
+o: t
+
+b: memorialise
+a: memorialize
+c: a
+o: t
+
+b: memorise
+a: memorize
+c: a
+o: t
+
+b: mesmerise
+a: mesmerize
+c: a
+o: t
+
+b: militarise
+a: militarize
+c: a
+o: t
+
+b: miniaturisation
+a: miniaturization
+c: a
+
+b: miniaturise
+a: miniaturize
+c: a
+o: t
+
+b: minimise
+a: minimize
+c: a
+o: t
+
+b: mobilise
+a: mobilize
+c: a
+o: t
+
+b: modelled
+a: modeled
+c: b
+
+b: modelling
+a: modeling
+c: b
+
+b: moulder
+a: molder
+c: b
+
+b: mollusc
+a: mollusk
+c: b
+
+b: moult
+a: molt
+c: b
+
+b: moustache
+a: mustache
+c: b
+
+b: neighbourhood
+a: neighborhood
+c: b
+
+b: neutralise
+a: neutralize
+c: a
+o: t
+
+b: ochre
+a: ocher
+c: b
+
+b: optimisation
+a: optimization
+c: a
+
+b: optimise
+a: optimize
+c: a
+o: t
+
+b: organisation
+a: organization
+c: a
+
+b: orientate
+a: orient
+c: a
+
+b: orientated
+a: oriented
+c: a
+
+b: oxidise
+a: oxidize
+c: a
+o: t
+
+b: Palaeocene
+a: Paleocene
+c: a
+
+b: panelled
+a: paneled
+c: b
+
+b: parallelling
+a: paralleling
+c: a
+
+b: paralyse
+a: paralyze
+c: a
+o: t
+
+b: pasteurise
+a: pasteurize
+c: a
+o: t
+
+b: paediatrics
+a: pediatrics
+c: a
+
+b: paedophile
+a: pedophile
+c: a
+
+b: penalisation
+a: penalization
+c: a
+
+b: penalise
+a: penalize
+c: a
+o: t
+
+b: personalise
+a: personalize
+c: a
+o: t
+
+b: philosophise
+a: philosophize
+c: a
+o: t
+
+b: plagiarise
+a: plagiarize
+c: a
+o: t
+
+b: polarise
+a: polarize
+c: a
+o: t
+
+b: (verb)practise
+a: practice
+c: practise
+
+b: prioritise
+a: prioritize
+c: a
+o: t
+
+b: privatise
+a: privatize
+c: a
+o: t
+
+b: pulverise
+a: pulverize
+c: a
+o: t
+
+b: pummelled
+a: pummeled
+c: b
+
+b: pummelling
+a: pummeling
+c: b
+
+b: repellant
+a: repellent
+c: a
+
+b: revelled
+a: reveled
+c: b
+
+b: reveller
+a: reveler
+c: b
+
+b: revelling
+a: reveling
+c: b
+
+b: sanitisation
+a: sanitization
+c: a
+
+b: sanitise
+a: sanitize
+c: a
+o: t
+
+b: savoury
+a: savory
+c: b
+
+b: scrutinise
+a: scrutinize
+c: a
+o: t
+
+b: sensationalise
+a: sensationalize
+c: a
+o: t
+
+b: shrivelled
+a: shriveled
+c: b
+
+b: shrivelling
+a: shriveling
+c: b
+
+b: signalled
+a: signaled
+c: b
+
+b: signaller
+a: signaler
+c: b
+
+b: signalling
+a: signaling
+c: b
+
+b: sceptical
+a: skeptical
+c: b
+
+b: smelt
+a: smelled
+c: a
+
+b: smoulder
+a: smolder
+c: b
+
+b: snorkelled
+a: snorkeled
+c: b
+
+b: snorkelling
+a: snorkeling
+c: b
+
+b: sombre
+a: somber
+c: b
+
+b: specialise
+a: specialize
+c: a
+o: t
+
+b: speciality
+a: specialty
+c: a
+
+b: spiralled
+a: spiraled
+c: b
+
+b: spiralling
+a: spiraling
+c: b
+
+b: stabilise
+a: stabilize
+c: a
+o: t
+
+b: standardisation
+a: standardization
+c: a
+
+b: standardise
+a: standardize
+c: a
+o: t
+
+b: sterilise
+a: sterilize
+c: a
+o: t
+
+b: stylise
+a: stylize
+c: a
+o: t
+
+b: summarise
+a: summarize
+c: a
+o: t
+
+b: symbolise
+a: symbolize
+c: a
+o: t
+
+b: synthesise
+a: synthesize
+c: a
+o: t
+
+b: systemise
+a: systemize
+c: a
+o: t
+
+b: titbit
+a: tidbit
+c: a
+
+b: tonne
+a: ton
+c: b
+
+b: totalled
+a: totaled
+c: b
+
+b: totalling
+a: totaling
+c: b
+
+b: towards
+a: toward
+c: a
+
+b: tranquillity
+a: tranquility
+c: b
+
+b: tranquillise
+a: tranquilize
+c: tranquillize
+o: t
+
+b: tranquillised
+a: tranquilized
+c: tranquillized
+
+b: tranquilliser
+a: tranquilizer
+c: tranquillizer
+
+b: tranquillising
+a: tranquilizing
+c: tranquillizing
+
+b: travelled
+a: traveled
+c: b
+
+b: traveller
+a: traveler
+c: b
+
+b: treble
+a: triple
+c: a
+
+b: tunnelled
+a: tunneled
+c: b
+
+b: tunneller
+a: tunneler
+c: b
+
+b: tunnelling
+a: tunneling
+c: b
+
+b: unionise
+a: unionize
+c: a
+o: t
+
+b: utilise
+a: utilize
+c: a
+o: t
+
+b: vapourer
+a: vaporer
+c: b
+
+b: vaporisation
+a: vaporization
+c: a
+
+b: vaporise
+a: vaporize
+c: a
+o: t
+
+b: vaporiser
+a: vaporizer
+c: a
+
+b: visualise
+a: visualize
+c: a
+o: t
+
+b: wilful
+a: willful
+c: b
+
+b: wilfully
+a: willfully
+c: b
+
+b: wilfulness
+a: willfulness
+c: b
+
+b: yodelled
+a: yodeled
+c: b
+
+b: yodelling
+a: yodeling
+c: b
+
+b: yoghurt
+a: yogurt
+c: a
+

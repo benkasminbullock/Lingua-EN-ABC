@@ -8,3 +8,7 @@ MYMETA..*
 .*\.bak
 ^Lingua-EN-ABC-[0-9.]/$
 ^Lingua-EN-ABC-[0-9.]\.tar\.gz$
+# Template for POD
+^lib/Lingua/EN/ABC\.pod\.tmpl$
+# Files containing sources of information, don't need to go to CPAN
+^sources/.*$

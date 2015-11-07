@@ -4,6 +4,6 @@ use strict;
 use Perl::Build;
 perl_build (
     pod => ['lib/Lingua/EN/ABC.pod',],
-    pre => './make-json.pl',
+    pre => './make-data-pod.pl',
 );
 exit;
