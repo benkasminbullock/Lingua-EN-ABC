@@ -1,0 +1,145 @@
+[% start_year='2013' %]
+
+=encoding UTF-8
+
+=head1 NAME
+
+Lingua::EN::ABC - American, British, and Canadian English
+
+=head1 SYNOPSIS
+
+    use Lingua::EN::ABC ':all';
+    my $colour = a2b ('color');
+
+=head1 DESCRIPTION
+
+This module offers functions to convert between the spellings and
+vocabulary of American, British, and Canadian versions of English.
+
+=head1 FUNCTIONS
+
+The naming convention for the functions is "a" for American, "b" for
+British, "c" for Canadian, so "a2b" converts "American to British".
+
+=head2 a2b
+
+    my $british = a2b ('color');
+    # $british = 'colour'.
+
+Convert American into British spellings.  An option C<oxford> controls
+whether to use Oxford spelling (realize rather than realise):
+
+    my $oxford_british = a2b ('realize', oxford => 1);
+
+This cannot correctly convert ambiguous spellings like "program",
+which may be either "program" or "programme" in British English. See
+L</BUGS>. It tries to convert American formations like "gotten" into
+"got".
+
+=head2 b2a
+
+    my $american = b2a ('the colour of my pyjamas');
+    # $american = 'the color of my pajamas'
+
+Convert British spellings into American spellings. This cannot convert
+British formations like "got" into "gotten" due to the grammatical
+ambiguity ("I've got a car" versus "I've gotten into an accident", or
+"I got into an accident").
+
+=head2 a2c
+
+    my $canadian = a2c ('the color');
+    # $canadian = 'the colour'
+
+Convert American to Canadian spelling.
+
+=head2 c2a
+
+    my $american = c2a ('the color');
+    # $american = 'the colour'
+
+Convert Canadian to American spelling.
+
+=head2 b2c
+
+    my $canadian = b2c ('the programme');
+    # $canadian = 'the program'
+
+Convert British to Canadian spelling.
+
+=head2 c2b
+
+    my $british = c2b ($canadian);
+
+Convert Canadian to British spelling. An option C<oxford> controls
+whether to use Oxford spelling (realize rather than realise):
+
+    my $oxford_british = c2b ($canadian, oxford => 1);
+
+=head1 DEPENDENCIES
+
+=over
+
+=item L<boolean>
+
+boolean is used for making the JSON. It isn't required to use the
+module, only if you need to edit it.
+
+=item L<Carp>
+
+Carp is used to print errors.
+
+=item L<JSON::Create>
+
+JSON::Create is used for making the JSON. It isn't required to use the
+module, only if you need to edit it.
+
+=item L<JSON::Parse>
+
+JSON::Parse is used to read in the file of spelling data. This file
+isn't intended to be human-edited, please edit F<abc.txt> in the top
+directory of the distribution.
+
+=back
+
+=head1 SEE ALSO
+
+=over
+
+=item respell
+
+L<http://membled.com/work/apps/respell/|respell> is a tool to convert
+English text from one spelling system to another.
+
+=back
+
+The file containing the spelling variations is F<abc.txt> in the top
+directory of the distribution.
+
+=head1 STANDALONE SCRIPT
+
+There is a script called F<econv> in the distribution which runs these
+functions on its command line. Please use C<econv --help> for detailed
+usage instructions.
+
+=head1 BUGS
+
+=over
+
+=item No handling of ambiguous words like "program".
+
+=item Cannot convert case-insensitively.
+
+=item Word lists are not comprehensive
+
+=back
+
+=head1 HISTORY
+
+This module was originally part of a plan to make an online
+thesaurus. However, I have shut down the online thesaurus, so I do not
+have a practical need for this module any more. If you want to adopt
+this module, please contact me at bkb@cpan.org.
+
+[% INCLUDE "author" %]
+[% INCLUDE "terminology" %]

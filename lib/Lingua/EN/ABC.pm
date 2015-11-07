@@ -1,90 +1,3 @@
-=encoding UTF-8
-
-=head1 NAME
-
-Lingua::EN::ABC - American, British, and Canadian English
-
-=head1 SYNOPSIS
-
-    use Lingua::EN::ABC ':all';
-    my $colour = a2b ('color');
-
-=head1 DESCRIPTION
-
-This is an experimental module. This module offers functions to
-convert between the spellings and vocabulary of American, British, and
-Canadian versions of English. The interface is described below.
-
-=head1 FUNCTIONS
-
-=head2 a2b
-
-    my $british = a2b ('color');
-    # $british = 'colour'.
-
-An option C<oxford> controls whether to use Oxford spelling (realize
-rather than realise):
-
-    my $oxford_british = a2b ('realize', oxford => 1);
-
-=head2 b2a
-
-    my $american = b2a ('the colour of my pyjamas');
-    # $american = 'the color of my pajamas'
-
-Convert British spellings into American spellings.
-
-=head2 a2c
-
-    my $canadian = a2c ('the color');
-    # $canadian = 'the colour'
-
-Convert American to Canadian spelling.
-
-=head2 c2a
-
-    my $american = c2a ('the color');
-    # $american = 'the colour'
-
-Convert Canadian to American spelling.
-
-=head2 b2c
-
-    my $canadian = b2c ('the programme');
-    # $canadian = 'the program'
-
-Convert British to Canadian spelling.
-
-=head2 c2b
-
-    my $british = c2b ($canadian);
-
-Convert Canadian to British spelling. An option C<oxford> controls
-whether to use Oxford spelling (realize rather than realise):
-
-    my $oxford_british = c2b ($canadian, oxford => 1);
-
-=head1 SEE ALSO
-
-This module's design is up for discussion. You can either use the
-Github issues page at
-L<https://github.com/benkasminbullock/Lingua-EN-ABC/issues> or the
-Prepan site at L<http://prepan.org/module/nXWEF3to2nu>.
-
-The file containing the spelling variations is "abc.txt" in the top
-directory of the distribution.
-
-=head1 AUTHOR
-
-Ben Bullock, <bkb@cpan.org>
-
-=head1 LICENCE
-
-This program and associated files may be used, copied, distributed,
-and modified under the same terms as Perl itself.
-
-=cut
-
 package Lingua::EN::ABC;
 require Exporter;
 @ISA = qw(Exporter);
@@ -97,7 +10,7 @@ use strict;
 use Carp;
 use JSON::Parse 'json_file_to_perl';
 
-our $VERSION = 0.03;
+our $VERSION = '0.04';
 
 # Load the data from the file.
 

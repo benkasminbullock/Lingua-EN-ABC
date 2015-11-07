@@ -4,14 +4,17 @@ use strict;
 use Table::Readable 'read_table';
 use Deploy 'older';
 use FindBin;
-use JSON;
+use JSON::Parse;
+use JSON::Create;
+use Devel::Peek;
+use boolean;
 
 my $outfile = "$FindBin::Bin/lib/Lingua/EN/ABC/abc.json";
 my $infile = "$FindBin::Bin/abc.txt";
 
-if (! older ($outfile, $infile)) {
-    exit;
-}
+#if (! older ($outfile, $infile)) {
+#    exit;
+#}
 
 my @entries = read_table ($infile);
 
@@ -21,19 +24,21 @@ for my $entry (@entries) {
     my %bits;
     $bits{a} = $entry->{a};
     $bits{b} = $entry->{b};
-    $bits{ca} = ($entry->{c} eq 'a') ? JSON::true : JSON::false;
+    $bits{ca} = ($entry->{c} eq 'a') ? true : false;
     if ($entry->{o} && $entry->{o} eq 't') {
-	$bits{oxford} = JSON::true;
+	$bits{oxford} = true;
     }
     if ($bits{m}) {
-	$bits{bam} = JSON::true;
+	$bits{bam} = true;
     }
     if ($bits{n}) {
-	$bits{aam} = JSON::true;
+	$bits{aam} = true;
     }
     push @stuff, \%bits;
 }
-my $json = to_json (\@stuff);
+my $jc = JSON::Create->new ();
+$jc->bool ('boolean');
+my $json = $jc->run (\@stuff);
 open my $out, ">", $outfile or die $!;
 print $out $json;
 close $out or die $!;

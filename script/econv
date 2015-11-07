@@ -5,11 +5,22 @@ use lib '/home/ben/projects/Lingua-EN-ABC/lib';
 use Lingua::EN::ABC ':all';
 use Getopt::Long;
 
-GetOptions (
+my $ok = GetOptions (
     "from=s" => \my $from,
     "to=s" => \my $to,
     "oxford" => \my $oxford,
+    "help" => \my $help,
 );
+
+if (! $ok || $help) {
+    usage ();
+    exit;
+}
+
+if (! @ARGV) {
+    usage ();
+    exit;
+}
 
 my $f = 'a';
 if ($from) {
@@ -20,11 +31,13 @@ if ($to) {
     $t = substr (lc $to, 0, 1);
 }
 if ($f eq $t) {
-    die "Convert $from to $to? You must be joking.\n";
+    usage ();
+    exit;
 }
 my %langs = map {$_ => 1} qw/a b c/;
 if (! $langs{$f} || ! $langs{$t}) {
-    die "You have dared to ask me to convert $from to $to.\n"
+    usage ();
+    exit;
 }
 my $sub = "${f}2$t";
 no strict 'refs';
@@ -33,7 +46,23 @@ if ($oxford) {
     $options{oxford} = 1;
 }
 print &{$sub} ("@ARGV", %options), "\n";
+exit;
 
+sub usage
+{
+    print <<EOF;
+$0: Convert different forms of English. Options are:
+
+--from (a, b, c)     Form to convert from
+--to (a, b, c)       Form to convert to
+--oxford             Use "oxford spelling"
+
+Here a=American, b=British, and c=Canadian.
+
+The default behaviour is --from American --to British
+EOF
+    exit;
+}
 
 # Local variables:
 # mode: perl

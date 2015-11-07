@@ -1,5 +1,10 @@
 Revision history for perl module Lingua::EN::ABC
 
+0.04 2015-11-07
+
+* Improve documentation, change build process slightly.
+* Simple script econv is now installed and documented.
+
 0.03 2014-01-25
 
 * Add "README", minimum Perl version.

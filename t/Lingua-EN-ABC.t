@@ -33,10 +33,22 @@ is ($canadian2, $canadian);
 
 TODO: {
     local $TODO='case sensitivity';
-    my $am = 'Color program.';
+    my $am = 'The Color Purple.';
     my $br = a2b ($am);
-    is ($br, 'Colour programme.');
-}
+    is ($br, 'The Colour Purple.');
+};
+
+# Implement a warning about ambiguous words
+
+TODO: {
+    local $TODO='ambiguity';
+    my $am = 'program';
+    my $warning;
+    local $SIG{__WARN__} = sub {$warning = "@_"};
+    my $br = a2b ($am, warn => 1);
+    ok ($warning, "Got warning");
+    like ($warning, qr/ambiguous/i, "Warning has correct form");
+};
 
 done_testing ();
 
