@@ -44,6 +44,10 @@ Lingua::EN::ABC::Data
 This is the underlying data file for L<Lingua::EN::ABC>. It is put
 here to make it easy to find, search, and check.
 
+The headings "BrAmbig" and "AmAmbig" are for words where the British
+or American version of the word is ambiguous, like "metre" and "meter"
+in British English, or "vice" and "vise" in American English.
+
 =head1 TABLE
 
 EOF

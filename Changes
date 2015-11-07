@@ -1,5 +1,11 @@
 Revision history for perl module Lingua::EN::ABC
 
+0.05 2015-11-07
+
+* More words added
+* POD table added to distribution
+* Bug fix where American and British ambiguous words not recorded fixed
+
 0.04 2015-11-07
 
 * Improve documentation, change build process slightly.
