@@ -13,4 +13,7 @@ use Perl::Build::Pod 'pod_checker';
 my $filepath = "$Bin/../lib/Lingua/EN/ABC.pod";
 my $errors = pod_checker ($filepath);
 ok (@$errors == 0, "No errors");
+my $datafilepath = "$Bin/../lib/Lingua/EN/ABC/Data.pod";
+my $dataerrors = pod_checker ($datafilepath);
+ok (@$dataerrors == 0, "No errors");
 done_testing ();
