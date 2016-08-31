@@ -1,4 +1,15 @@
 [% start_year='2013' %]
+[% MACRO example(file) BLOCK %]
+[%- pl =  file _ ".pl" -%]
+[%- out = file _ "-out.txt" -%]
+[% INCLUDE $pl | xtidy %]
+
+produces output
+
+[% INCLUDE $out | xtidy %]
+
+(This example is included as L<F<[% pl %]>|https://api.metacpan.org/source/BKB/Lingua-EN-ABC-[% version %]/examples/[% pl %]> in the distribution.)
+[% END %]
 
 =encoding UTF-8
 
@@ -8,8 +19,12 @@ Lingua::EN::ABC - American, British, and Canadian English
 
 =head1 SYNOPSIS
 
-    use Lingua::EN::ABC ':all';
-    my $colour = a2b ('color');
+[% example("synopsis") %]
+
+=head1 VERSION
+
+This documents version [% version %] of Lingua::EN::ABC corresponding to git
+commit [% commit.commit %] released on [% commit.date %].
 
 =head1 DESCRIPTION
 
@@ -163,18 +178,8 @@ tests of this.
 
 =head1 ACKNOWLEDGEMENTS
 
-A list of words at
-L<http://en.wikipedia.org/wiki/User:Ohconfucius/U.S._Spelling_versus_British_and_Canadian_Spellings>,
-by Wikipedia user Ohconfucius, was used in the preparation of the
-data.
-
-=head1 HISTORY
-
-This module was originally part of a plan to make an online
-thesaurus. However, I have shut down the online thesaurus, so I do not
-have a practical need for this module any more. If you want to adopt
-this module so that you can improve it, please contact me at
-bkb@cpan.org.
+L<A list of words by Wikipedia user Ohconfucius|http://en.wikipedia.org/wiki/User:Ohconfucius/U.S._Spelling_versus_British_and_Canadian_Spellings>
+was used in the preparation of the data. Nigel Horne (NJH) and Ed Avis
+(EDAVIS) contributed some word additions and other suggestions.
 
 [% INCLUDE "author" %]
-[% INCLUDE "terminology" %]

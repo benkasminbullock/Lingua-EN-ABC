@@ -12,3 +12,12 @@ MYMETA..*
 ^lib/Lingua/EN/ABC\.pod\.tmpl$
 # Files containing sources of information, don't need to go to CPAN
 ^sources/.*$
+^examples/.*-out\.txt$
+^abc\.txt$
+^xt/.*$
+# Build files
+^make-data-pod\.pl$
+^make-json\.pl$
+^make-pod\.pl$
+# Misc script
+^read-respell\.pl$

@@ -10,7 +10,7 @@ use strict;
 use Carp;
 use JSON::Parse 'json_file_to_perl';
 
-our $VERSION = '0.05';
+our $VERSION = '0.06';
 
 # Load the data from the file.
 
