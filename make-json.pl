@@ -2,13 +2,13 @@
 use warnings;
 use strict;
 use Table::Readable 'read_table';
-use FindBin;
+use FindBin '$Bin';
 use JSON::Parse;
 use JSON::Create;
 use boolean;
 
-my $outfile = "$FindBin::Bin/lib/Lingua/EN/ABC/abc.json";
-my $infile = "$FindBin::Bin/abc.txt";
+my $outfile = "$Bin/lib/Lingua/EN/ABC/abc.json";
+my $infile = "$Bin/abc.txt";
 
 my @entries = read_table ($infile);
 
