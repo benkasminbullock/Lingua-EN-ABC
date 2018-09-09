@@ -6,10 +6,12 @@
 # m: The British spelling is ambiguous, e.g. meter/metre, tire/tyre.
 # n: The American spelling is ambiguous, e.g. vise/vice.
 # A # at the start of a line is a comment.
+# s: spelling-only difference
 
 b: ageing
 a: aging
 c: b
+s: true
 
 b: aluminium
 a: aluminum
@@ -18,387 +20,481 @@ c: b
 b: amphitheatre
 a: amphitheater
 c: b
+s: true
 
 b: anaesthesia
 a: anesthesia
 c: b
+s: true
 
 b: analogue
 a: analog
 c: a
+s: true
 
 b: analyse
 a: analyze
 c: b
 o: t
+s: true
 
 b: anaemic
 a: anemic
 c: a
-
+s: true
 
 b: apologise
 a: apologize
 c: b
 o: t
+s: true
 
 b: appetiser
 a: appetizer
 c: b
 o: t
+s: true
 
 b: arbour
 a: arbor
 c: b
+s: true
 
 b: archaeology
 a: archeology
 c: b
+s: true
 
 b: ardour
 a: ardor
 c: b
+s: true
 
 b: armour
 a: armor
 c: b
+s: true
 
 b: armoury
 a: armory
 c: b
+s: true
 
 b: behaviour
 a: behavior
 c: b
+s: true
 
 b: misbehaviour
 a: misbehavior
 c: b
+s: true
 
 b: behavioural
 a: behavioral
 c: b
+s: true
 
 b: behaviourism
 a: behaviorism
 c: b
+s: true
 
 b: belabour
 a: belabor
 c: b
+s: true
 
 b: calibre
 a: caliber
 c: b
+s: true
 
 b: candour
 a: candor
 c: b
+s: true
 
 b: catalogue
 a: catalog
 c: a
+s: true
 
 b: catalyse
 a: catalyze
 c: b
+s: true
 
 b: centilitre
 a: centiliter
 c: b
+s: true
 
 b: centimetre
 a: centimeter
 c: b
+s: true
 
 b: centre
 a: center
 c: b
+s: true
 
 b: centred
 a: centered
 c: b
+s: true
 
 b: centring
 a: centering
 c: b
+s: true
 
 b: cheque
 a: check
 c: b
+s: true
 
 b: civilisation
 a: civilization
 c: b
+s: true
 
 b: civilise
 a: civilize
 c: b
+s: true
 
 b: clamour
 a: clamor
 c: b
+s: true
 
 b: colonisation
 a: colonization
 c: b
+s: true
 
 b: colonise
 a: colonize
 c: b
+s: true
 
 b: colour
 a: color
 c: b
+s: true
 
 b: colouration
 a: coloration
 c: b
+s: true
 
 b: counsellor
 a: counselor
 c: b
+s: true
 
 b: criticise
 a: criticize
 c: b
+s: true
 
 b: decilitre
 a: deciliter
 c: b
+s: true
 
 b: decimetre
 a: decimeter
 c: b
+s: true
 
 b: defence
 a: defense
 c: b
+s: true
 
 b: demeanour
 a: demeanor
 c: b
+s: true
 
 b: dialogue
 a: dialog
 c: b
+s: true
 
 b: dolourous
 a: dolorous
 c: b
+s: true
 
 b: draught
 a: draft
 c: b
+s: true
 
 b: emphasise
 a: emphasize
 c: b
+s: true
 
 b: enamour
 a: enamor
 c: b
+s: true
 
 b: encyclopaedia
 a: encyclopedia
 c: b
+s: true
 
 b: endeavour
 a: endeavor
 c: b
+s: true
 
 b: enrolment
 a: enrollment
 c: b
+s: true
 
 b: epicentre
 a: epicenter
 c: b
+s: true
 
 b: favour
 a: favor
 c: b
+s: true
 
 b: favourable
 a: favorable
 c: b
+s: true
 
 b: favourite
 a: favorite
 c: b
+s: true
 
 b: favouritism
 a: favoritism
 c: b
+s: true
 
 b: fervour
 a: fervor
 c: b
+s: true
 
 b: fibre
 a: fiber
 c: b
+s: true
 
 b: flavour
 a: flavor
 c: b
+s: true
 
 b: fuelled
 a: fueled
 c: b
+s: true
 
 b: fulfil
 a: fulfill
 c: b
+s: true
 
 b: glamour
 a: glamour
 c: b
+s: true
 
 b: goitre
 a: goiter
 c: b
+s: true
 
 b: gramme
 a: gram
 c: b
+s: true
 
 b: grey
 a: gray
 c: b
+s: true
 
 b: gynaecology
 a: gynecology
 c: b
+s: true
 
 b: harbour
 a: harbor
 c: b
+s: true
 
 b: honour
 a: honor
 c: b
+s: true
 
 b: honourable
 a: honorable
 c: b
+s: true
 
 b: humour
 a: humor
 c: b
+s: true
 
 b: instalment
 a: installment
 c: b
+s: true
 
 b: jewellery
 a: jewelery
 c: b
+s: true
 
 b: judgement
 a: judgment
 c: b
+s: true
 
 b: kerb
 a: curb
 c: a
+s: true
 
 b: kilogramme
 a: kilogram
 c: b
+s: true
 
 b: kilometre
 a: kilometer
 c: b
+s: true
 
 b: labour
 a: labor
 c: b
+s: true
 
 b: lacklustre
 a: lackluster
 c: b
+s: true
 
 b: leukaemia
 a: leukemia
 c: b
+s: true
 
 b: licence
 a: license
 c: b
+s: true
 
 b: litre
 a: liter
 c: b
+s: true
 
 b: louvre
 a: louver
 c: b
+s: true
 
 b: lustre
 a: luster
 c: b
+s: true
 
 b: manoeuvre
 a: maneuver
 c: b
+s: true
 
 b: marvellous
 a: marvelous
 c: b
+s: true
 
 b: meagre
 a: meager
 c: b
+s: true
 
 b: mediaeval
 a: medieval
 c: b
+s: true
 
 b: mementoes
 a: mementos
 c: b
+s: true
 
 b: metre
 a: meter
 c: b
 m: t
+s: true
 
 b: micrometre
 a: micrometer
 c: b
+s: true
 
 b: millilitre
 a: milliliter
 c: b
+s: true
 
 b: millimetre
 a: millimeter
 c: b
+s: true
 
 b: misdemeanour
 a: misdemeanor
 c: b
+s: true
 
 b: mitre
 a: miter
 c: b
+s: true
 
 b: mitred
 a: mitered
 c: b
+s: true
 
 b: monologue
 a: monolog
 c: b
+s: true
 
 b: mould
 a: mold
 c: b
+s: true
 
 b: mum
 a: mom
 c: b
+s: true
 
 b: mummy
 a: mommy
@@ -407,239 +503,297 @@ c: b
 b: neighbour
 a: neighbor
 c: b
+s: true
 
 b: odour
 a: odor
 c: b
+s: true
 
 b: oestrogen
 a: estrogen
 c: b
+s: true
 
 b: offence
 a: offense
 c: b
+s: true
 
 b: offence
 a: offense
 c: b
+s: true
 
 b: omelette
 a: omelet
 c: b
+s: true
 
 b: organise
 a: organize
 c: b
 o: t
+s: true
 
 b: orthopaedic
 a: orthopedic
 c: b
+s: true
 
 b: paediatric
 a: pediatric
 c: b
+s: true
 
 b: palaeontology
 a: paleontology
 c: b
+s: true
 
 b: parallelled
 a: paralleled
 c: b
+s: true
 
 b: parlour
 a: parlor
 c: b
+s: true
 
 b: philtre
 a: philter
 c: b
+s: true
 
 b: plough
 a: plow
 c: a
+s: true
 
 b: popularisation
 a: popularization
 c: b
+s: true
 
 b: popularise
 a: popularize
 c: b
+s: true
 
 b: practise
 a: practice
 c: b
+s: true
 
 b: practising
 a: practicing
 c: b
+s: true
 
 b: pretence
 a: pretense
 c: b
+s: true
 
 b: prise
 a: prize
 c: b
+s: true
 
 b: programme
 a: program
 c: a
+s: true
 
 b: pyjamas
 a: pajamas
 c: b
+s: true
 
 b: quarrelling
 a: quarreling
 c: b
+s: true
 
 b: rancour
 a: rancor
 c: b
+s: true
 
 b: realise
 a: realize
 c: b
 o: t
+s: true
 
 b: recognise
 a: recognize
 c: b
 o: t
+s: true
 
 b: reconnoitre
 a: reconnoiter
 c: b
+s: true
 
 b: reconnoitred
 a: reconnoitered
 c: b
+s: true
 
 b: reconnoitring
 a: reconnoitering
 c: b
+s: true
 
 b: rigour
 a: rigor
 c: b
+s: true
 
 b: rumour
 a: rumor
 c: b
+s: true
 
 b: sabre
 a: saber
 c: b
+s: true
 
 b: saltpetre
 a: saltpeter
 c: b
+s: true
 
 b: saviour
 a: savior
 c: b
+s: true
 
 b: saviour
 a: savior
 c: b
+s: true
 
 b: savour
 a: savor
 c: b
+s: true
 
 b: sceptic
 a: skeptic
 c: b
+s: true
 
 b: sceptre
 a: scepter
 c: b
+s: true
 
 b: sceptred
 a: sceptered
 c: b
+s: true
 
 b: sepulchre
 a: sepulcher
 c: b
+s: true
 
 b: skilful
 a: skillful
 c: b
+s: true
 
 b: spectre
 a: specter
 c: b
+s: true
 
 b: splendour
 a: splendor
 c: b
+s: true
 
 b: succour
 a: succor
 c: b
+s: true
 
 b: sulphur
 a: sulfur
 c: b
+s: true
 
 b: tambourine
 a: tamborine
 c: b
+s: true
 
 b: theatre
 a: theater
 c: b
+s: true
 
 b: toxaemia
 a: toxemia
 c: b
+s: true
 
 b: travelling
 a: traveling
 c: b
+s: true
 
 b: tumour
 a: tumor
 c: b
+s: true
 
 b: tyre
 a: tire
 c: a
 m: t
+s: true
 
 b: valour
 a: valor
 c: b
+s: true
 
 b: vapour
 a: vapor
 c: b
+s: true
 
 b: vice
 a: vise
 c: b
 n: t
+s: true
 
 b: vigour
 a: vigor
 c: b
+s: true
 
 b: woollen
 a: woolen
 c: b
+s: true
 
 b: Mr
 a: Mr.
 c: a
+s: true
 
 b: Dr
 a: Dr.
 c: a
+s: true
 
 b: got
 a: gotten
@@ -648,6 +802,7 @@ c: a
 b: acknowledgement
 a: acknowledgment
 c: b
+s: true
 
 b: aeroplane
 a: airplane
@@ -657,60 +812,74 @@ b: amortise
 a: amortize
 c: a
 o: t
+s: true
 
 b: anaemia
 a: anemia
 c: a
+s: true
 
 b: anaesthetic
 a: anesthetic
 c: b
+s: true
 
 b: apnoea
 a: apnea
 c: a
+s: true
 
 b: appal
 a: appall
 c: a
+s: true
 
 b: artefact
 a: artifact
 c: a
+s: true
 
 b: authorise
 a: authorize
 c: a
 o: t
+s: true
 
 b: axe
 a: ax
 c: b
+s: true
 
 b: bandanna
 a: bandanna
 c: bandana
+s: true
 
 b: baptise
 a: baptize
 c: a
 o: t
+s: true
 
 b: barrelled
 a: barreled
 c: b
+s: true
 
 b: barrelling
 a: barreling
 c: b
+s: true
 
 b: behove
 a: behoove
 c: a
+s: true
 
 b: Breathalyser
 a: Breathalyzer
 c: a
+s: true
 
 b: burnt
 a: burned
@@ -719,82 +888,100 @@ c: a
 b: bussed
 a: bused
 c: a
+s: true
 
 b: bussing
 a: busing
 c: a
+s: true
 
 b: cauldron
 a: caldron
 c: b
+s: true
 
 b: cancelled
 a: canceled
 c: b
+s: true
 
 b: cancelling
 a: canceling
 c: b
+s: true
 
 b: capitalise
 a: capitalize
 c: a
 o: t
+s: true
 
 b: caramelise
 a: caramelize
 c: a
 o: t
+s: true
 
 b: carburettor
 a: carburetor
 c: a
+s: true
 
 b: categorise
 a: categorize
 c: a
 o: t
+s: true
 
 b: cauterise
 a: cauterize
 c: a
 o: t
+s: true
 
 b: centralise
 a: centralize
 c: a
 o: t
+s: true
 
 b: Caesarean
 a: Cesarean
 c: Caesarian
+s: true
 
 b: characterise
 a: characterize
 c: a
 o: t
+s: true
 
 b: chequered
 a: checkered
 c: a
+s: true
 
 b: collectable
 a: collectible
 c: a
+s: true
 
 b: commercialise
 a: commercialize
 c: a
 o: t
+s: true
 
 b: computerise
 a: computerize
 c: a
 o: t
+s: true
 
 b: convenor
 a: convener
 c: b
+s: true
 
 b: costumier
 a: costumer
@@ -803,243 +990,294 @@ c: a
 b: councillor
 a: councilor
 c: b
+s: true
 
 b: counselled
 a: counseled
 c: b
+s: true
 
 b: counselling
 a: counseling
 c: b
+s: true
 
 b: cosy
 a: cozy
 c: a
 o: t
+s: true
 
 b: crystallisation
 a: crystallization
 c: a
+s: true
 
 b: crystallise
 a: crystallize
 c: a
 o: t
+s: true
 
 b: customise
 a: customize
 c: a
 o: t
+s: true
 
 b: dependant
 a: dependent
 c: b
+s: true
 
 b: diarrhoea
 a: diarrhea
 c: a
+s: true
 
 b: dietician
 a: dietician
 c: dietitian
+s: true
 
 b: digitise
 a: digitize
 c: a
 o: t
+s: true
 
 b: dishevelled
 a: disheveled
 c: b
+s: true
 
 b: dolour
 a: dolor
 c: b
+s: true
 
 b: doughnut
 a: donut
 c: b
+s: true
 
 b: dreamt
 a: dreamed
 c: b
+s: true
 
 b: duelled
 a: dueled
 c: a
+s: true
 
 b: duelling
 a: dueling
 c: b
+s: true
 
 b: oedema
 a: edema
 c: a
+s: true
 
 b: empathise
 a: empathize
 c: a
 o: t
+s: true
 
 b: enrol
 a: enroll
 c: b
+s: true
 
 b: enthral
 a: enthrall
 c: a
+s: true
 
 b: enthralment
 a: enthrallment
 c: a
+s: true
 
 b: aeon
 a: eon
 c: a
+s: true
 
 b: equalled
 a: equaled
 c: b
+s: true
 
 b: equalling
 a: equaling
 c: b
+s: true
 
 b: equalisation
 a: equalization
 c: a
+s: true
 
 b: equalise
 a: equalize
 c: a
 o: t
+s: true
 
 b: oesophagus
 a: esophagus
 c: a
+s: true
 
 b: familiarise
 a: familiarize
 c: a
 o: t
+s: true
 
 b: haemophilia
 a: hemophilia
 c: a
+s: true
 
 b: haemorrhage
 a: hemorrhage
 c: a
+s: true
 
 b: honoured
 a: honored
 c: b
+s: true
 
 b: honouring
 a: honoring
 c: b
+s: true
 
 b: hospitalise
 a: hospitalize
 c: a
 o: t
+s: true
 
 b: hyperglycaemia
 a: hyperglycemia
 c: a
+s: true
 
 b: hypnotise
 a: hypnotize
 c: a
 o: t
+s: true
 
 b: hypoglycaemia
 a: hypoglycemia
 c: a
+s: true
 
 b: hypothesise
 a: hypothesize
 c: a
 o: t
+s: true
 
 b: idolise
 a: idolize
 c: a
 o: t
+s: true
 
 b: immortalise
 a: immortalize
 c: a
 o: t
+s: true
 
 b: immunisation
 a: immunization
 c: a
+s: true
 
 b: immunise
 a: immunize
 c: a
 o: t
+s: true
 
 b: industrialisation
 a: industrialization
 c: a
+s: true
 
 b: industrialise
 a: industrialize
 c: a
 o: t
+s: true
 
 b: initialise
 a: initialize
 c: a
 o: t
+s: true
 
 b: enquiry
 a: inquiry
 c: a
+s: true
 
 b: institutionalise
 a: institutionalize
 c: a
 o: t
+s: true
 
 b: ionise
 a: ionize
 c: a
 o: t
+s: true
 
 b: gaol
 a: jail
 c: a
+s: true
 
 b: jewelled
 a: jeweled
 c: b
+s: true
 
 b: jeweller
 a: jeweler
 c: b
+s: true
 
 b: jewellery
 a: jewelry
 c: b
+s: true
 
 b: labelled
 a: labeled
 c: b
+s: true
 
 b: labelling
 a: labeling
 c: b
+s: true
 
 b: labourer
 a: laborer
 c: b
-
-b: lasagne
-a: lasagna
-c: a
+s: true
 
 b: leant
 a: leaned
@@ -1053,42 +1291,52 @@ b: legalise
 a: legalize
 c: a
 o: t
+s: true
 
 b: levelled
 a: leveled
 c: b
+s: true
 
 b: levelling
 a: leveling
 c: b
+s: true
 
 b: libelled
 a: libeled
 c: b
+s: true
 
 b: libeller
 a: libeler
 c: b
+s: true
 
 b: libellous
 a: libelous
 c: b
+s: true
 
 b: liquorice
 a: licorice
 c: a
+s: true
 
 b: louvred
 a: louvered
 c: b
+s: true
 
 b: marvelled
 a: marveled
 c: b
+s: true
 
 b: marvelling
 a: marveling
 c: b
+s: true
 
 b: maths
 a: math
@@ -1098,95 +1346,116 @@ b: maximise
 a: maximize
 c: a
 o: t
+s: true
 
 b: memorialise
 a: memorialize
 c: a
 o: t
+s: true
 
 b: memorise
 a: memorize
 c: a
 o: t
+s: true
 
 b: mesmerise
 a: mesmerize
 c: a
 o: t
+s: true
 
 b: militarise
 a: militarize
 c: a
 o: t
+s: true
 
 b: miniaturisation
 a: miniaturization
 c: a
+s: true
 
 b: miniaturise
 a: miniaturize
 c: a
 o: t
+s: true
 
 b: minimise
 a: minimize
 c: a
 o: t
+s: true
 
 b: mobilise
 a: mobilize
 c: a
 o: t
+s: true
 
 b: modelled
 a: modeled
 c: b
+s: true
 
 b: modelling
 a: modeling
 c: b
+s: true
 
 b: moulder
 a: molder
 c: b
+s: true
 
 b: mollusc
 a: mollusk
 c: b
+s: true
 
 b: moult
 a: molt
 c: b
+s: true
 
 b: moustache
 a: mustache
 c: b
+s: true
 
 b: neighbourhood
 a: neighborhood
 c: b
+s: true
 
 b: neutralise
 a: neutralize
 c: a
 o: t
+s: true
 
 b: ochre
 a: ocher
 c: b
+s: true
 
 b: optimisation
 a: optimization
 c: a
+s: true
 
 b: optimise
 a: optimize
 c: a
 o: t
+s: true
 
 b: organisation
 a: organization
 c: a
+s: true
 
 b: orientate
 a: orient
@@ -1200,155 +1469,190 @@ b: oxidise
 a: oxidize
 c: a
 o: t
+s: true
 
 b: Palaeocene
 a: Paleocene
 c: a
+s: true
 
 b: panelled
 a: paneled
 c: b
+s: true
 
 b: parallelling
 a: paralleling
 c: a
+s: true
 
 b: paralyse
 a: paralyze
 c: a
 o: t
+s: true
 
 b: pasteurise
 a: pasteurize
 c: a
 o: t
+s: true
 
 b: paediatrics
 a: pediatrics
 c: a
+s: true
 
 b: paedophile
 a: pedophile
 c: a
+s: true
 
 b: penalisation
 a: penalization
 c: a
+s: true
 
 b: penalise
 a: penalize
 c: a
 o: t
+s: true
 
 b: personalise
 a: personalize
 c: a
 o: t
+s: true
 
 b: philosophise
 a: philosophize
 c: a
 o: t
+s: true
 
 b: plagiarise
 a: plagiarize
 c: a
 o: t
+s: true
 
 b: polarise
 a: polarize
 c: a
 o: t
+s: true
 
 b: (verb)practise
 a: practice
 c: practise
+s: true
 
 b: prioritise
 a: prioritize
 c: a
 o: t
+s: true
 
 b: privatise
 a: privatize
 c: a
 o: t
+s: true
 
 b: pulverise
 a: pulverize
 c: a
 o: t
+s: true
 
 b: pummelled
 a: pummeled
 c: b
+s: true
 
 b: pummelling
 a: pummeling
 c: b
+s: true
 
 b: repellant
 a: repellent
 c: a
+s: true
 
 b: revelled
 a: reveled
 c: b
+s: true
 
 b: reveller
 a: reveler
 c: b
+s: true
 
 b: revelling
 a: reveling
 c: b
+s: true
 
 b: sanitisation
 a: sanitization
 c: a
+s: true
 
 b: sanitise
 a: sanitize
 c: a
 o: t
+s: true
 
 b: savoury
 a: savory
 c: b
+s: true
 
 b: scrutinise
 a: scrutinize
 c: a
 o: t
+s: true
 
 b: sensationalise
 a: sensationalize
 c: a
 o: t
+s: true
 
 b: shrivelled
 a: shriveled
 c: b
+s: true
 
 b: shrivelling
 a: shriveling
 c: b
+s: true
 
 b: signalled
 a: signaled
 c: b
+s: true
 
 b: signaller
 a: signaler
 c: b
+s: true
 
 b: signalling
 a: signaling
 c: b
+s: true
 
 b: sceptical
 a: skeptical
 c: b
+s: true
 
 b: smelt
 a: smelled
@@ -1357,79 +1661,96 @@ c: a
 b: smoulder
 a: smolder
 c: b
+s: true
 
 b: snorkelled
 a: snorkeled
 c: b
+s: true
 
 b: snorkelling
 a: snorkeling
 c: b
+s: true
 
 b: sombre
 a: somber
 c: b
+s: true
 
 b: specialise
 a: specialize
 c: a
 o: t
+s: true
 
 b: speciality
 a: specialty
 c: a
+s: true
 
 b: spiralled
 a: spiraled
 c: b
+s: true
 
 b: spiralling
 a: spiraling
 c: b
+s: true
 
 b: stabilise
 a: stabilize
 c: a
 o: t
+s: true
 
 b: standardisation
 a: standardization
 c: a
+s: true
 
 b: standardise
 a: standardize
 c: a
 o: t
+s: true
 
 b: sterilise
 a: sterilize
 c: a
 o: t
+s: true
 
 b: stylise
 a: stylize
 c: a
 o: t
+s: true
 
 b: summarise
 a: summarize
 c: a
 o: t
+s: true
 
 b: symbolise
 a: symbolize
 c: a
 o: t
+s: true
 
 b: synthesise
 a: synthesize
 c: a
 o: t
+s: true
 
 b: systemise
 a: systemize
 c: a
 o: t
+s: true
 
 b: titbit
 a: tidbit
@@ -1438,47 +1759,58 @@ c: a
 b: tonne
 a: ton
 c: b
+s: true
 
 b: totalled
 a: totaled
 c: b
+s: true
 
 b: totalling
 a: totaling
 c: b
+s: true
 
 b: towards
 a: toward
 c: a
+s: true
 
 b: tranquillity
 a: tranquility
 c: b
+s: true
 
 b: tranquillise
 a: tranquilize
 c: tranquillize
 o: t
+s: true
 
 b: tranquillised
 a: tranquilized
 c: tranquillized
+s: true
 
 b: tranquilliser
 a: tranquilizer
 c: tranquillizer
+s: true
 
 b: tranquillising
 a: tranquilizing
 c: tranquillizing
+s: true
 
 b: travelled
 a: traveled
 c: b
+s: true
 
 b: traveller
 a: traveler
 c: b
+s: true
 
 b: treble
 a: triple
@@ -1487,76 +1819,92 @@ c: a
 b: tunnelled
 a: tunneled
 c: b
+s: true
 
 b: tunneller
 a: tunneler
 c: b
+s: true
 
 b: tunnelling
 a: tunneling
 c: b
+s: true
 
 b: unionise
 a: unionize
 c: a
 o: t
+s: true
 
 b: utilise
 a: utilize
 c: a
 o: t
+s: true
 
 b: vapourer
 a: vaporer
 c: b
+s: true
 
 b: vaporisation
 a: vaporization
 c: a
+s: true
 
 b: vaporise
 a: vaporize
 c: a
 o: t
+s: true
 
 b: vaporiser
 a: vaporizer
 c: a
+s: true
 
 b: visualise
 a: visualize
 c: a
 o: t
+s: true
 
 b: wilful
 a: willful
 c: b
+s: true
 
 b: wilfully
 a: willfully
 c: b
+s: true
 
 b: wilfulness
 a: willfulness
 c: b
+s: true
 
 b: yodelled
 a: yodeled
 c: b
+s: true
 
 b: yodelling
 a: yodeling
 c: b
+s: true
 
 b: yoghurt
 a: yogurt
 c: a
+s: true
 
 b: railway
 a: railroad
 c: b
 
-
 b: over
 a: overly
 c: a
+

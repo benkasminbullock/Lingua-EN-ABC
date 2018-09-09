@@ -28,6 +28,12 @@ for my $entry (@entries) {
     if ($entry->{n}) {
 	$bits{aam} = true;
     }
+    if ($entry->{s}) {
+	$bits{s} = true;
+    }
+    else {
+	$bits{s} = false;
+    }
     push @stuff, \%bits;
 }
 my $jc = JSON::Create->new ();

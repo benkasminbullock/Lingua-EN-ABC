@@ -50,6 +50,13 @@ whether to use Oxford spelling (realize rather than realise):
 
     my $oxford_british = a2b ('realize', oxford => 1);
 
+An option C<s>, if true, results in a spelling-only conversion:
+
+[% example('alairlab') %]
+
+This does not convert words with different pronunciations or words
+which are completely different between American and British uses.
+
 This cannot correctly convert ambiguous spellings like "program",
 which may be either "program" or "programme" in British English. See
 L</BUGS>. It tries to convert American formations like "gotten" into
@@ -70,21 +77,24 @@ ambiguity ("I've got a car" versus "I've gotten into an accident", or
     my $canadian = a2c ('the color');
     # $canadian = 'the colour'
 
-Convert American to Canadian spelling.
+Convert American to Canadian spelling. An option C<s>, if true,
+results in a spelling-only conversion. See L</a2b> for an example.
 
 =head2 c2a
 
     my $american = c2a ('the color');
     # $american = 'the colour'
 
-Convert Canadian to American spelling.
+Convert Canadian to American spelling. An option C<s>, if true,
+results in a spelling-only conversion. See L</a2b> for an example.
 
 =head2 b2c
 
     my $canadian = b2c ('the programme');
     # $canadian = 'the program'
 
-Convert British to Canadian spelling.
+Convert British to Canadian spelling. An option C<s>, if true,
+results in a spelling-only conversion. See L</a2b> for an example.
 
 =head2 c2b
 
@@ -94,6 +104,9 @@ Convert Canadian to British spelling. An option C<oxford> controls
 whether to use Oxford spelling (realize rather than realise):
 
     my $oxford_british = c2b ($canadian, oxford => 1);
+
+An option C<s>, if true, results in a spelling-only conversion. See
+L</a2b> for an example.
 
 =head1 DEPENDENCIES
 
