@@ -50,10 +50,6 @@ whether to use Oxford spelling (realize rather than realise):
 
     my $oxford_british = a2b ('realize', oxford => 1);
 
-An option C<s>, if true, results in a spelling-only conversion:
-
-[% example('alairlab') %]
-
 This does not convert words with different pronunciations or words
 which are completely different between American and British uses.
 
@@ -61,6 +57,13 @@ This cannot correctly convert ambiguous spellings like "program",
 which may be either "program" or "programme" in British English. See
 L</BUGS>. It tries to convert American formations like "gotten" into
 "got".
+
+An option C<s>, if true, results in a spelling-only conversion:
+
+[% example('alairlab') %]
+
+In this case, word pairs like "burnt" and "burned" are not
+interchanged.
 
 =head2 b2a
 
@@ -71,6 +74,9 @@ Convert British spellings into American spellings. This cannot convert
 British formations like "got" into "gotten" due to the grammatical
 ambiguity ("I've got a car" versus "I've gotten into an accident", or
 "I got into an accident").
+
+An option C<s>, if true, results in a spelling-only conversion. See
+L</a2b> for an example.
 
 =head2 a2c
 
