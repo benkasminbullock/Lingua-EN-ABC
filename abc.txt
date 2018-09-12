@@ -785,16 +785,6 @@ a: woolen
 c: b
 s: true
 
-b: Mr
-a: Mr.
-c: a
-s: true
-
-b: Dr
-a: Dr.
-c: a
-s: true
-
 b: got
 a: gotten
 c: a
