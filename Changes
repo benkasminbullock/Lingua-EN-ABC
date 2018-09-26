@@ -1,5 +1,7 @@
 Revision history for perl module Lingua::EN::ABC
 
+* Plurals ending in s also changed
+
 0.09 2018-09-26
 
 * Some words removed from "same pronunciation, different spelling" category
