@@ -62,8 +62,9 @@ An option C<s>, if true, results in a spelling-only conversion:
 
 [% example('alairlab') %]
 
-In this case, word pairs like "burnt" and "burned" are not
-interchanged.
+In this case, word pairs with differing pronunciations, like "burnt"
+and "burned" are not interchanged, and word pairs which are ambiguous,
+like "check" and "cheque", are also not interchanged.
 
 =head2 b2a
 
@@ -76,7 +77,7 @@ ambiguity ("I've got a car" versus "I've gotten into an accident", or
 "I got into an accident").
 
 An option C<s>, if true, results in a spelling-only conversion. See
-L</a2b> for an example.
+L</a2b>.
 
 =head2 a2c
 
@@ -84,7 +85,7 @@ L</a2b> for an example.
     # $canadian = 'the colour'
 
 Convert American to Canadian spelling. An option C<s>, if true,
-results in a spelling-only conversion. See L</a2b> for an example.
+results in a spelling-only conversion. See L</a2b>.
 
 =head2 c2a
 
@@ -92,7 +93,7 @@ results in a spelling-only conversion. See L</a2b> for an example.
     # $american = 'the colour'
 
 Convert Canadian to American spelling. An option C<s>, if true,
-results in a spelling-only conversion. See L</a2b> for an example.
+results in a spelling-only conversion. See L</a2b>.
 
 =head2 b2c
 
@@ -100,7 +101,7 @@ results in a spelling-only conversion. See L</a2b> for an example.
     # $canadian = 'the program'
 
 Convert British to Canadian spelling. An option C<s>, if true,
-results in a spelling-only conversion. See L</a2b> for an example.
+results in a spelling-only conversion. See L</a2b>.
 
 =head2 c2b
 
@@ -112,7 +113,7 @@ whether to use Oxford spelling (realize rather than realise):
     my $oxford_british = c2b ($canadian, oxford => 1);
 
 An option C<s>, if true, results in a spelling-only conversion. See
-L</a2b> for an example.
+L</a2b>.
 
 =head1 DEPENDENCIES
 
@@ -193,6 +194,23 @@ Up to version 0.05 of the module, the ambiguity data about which words
 are ambiguous (vice/vise etc.) was not being put into the JSON data
 file, and yet it was passing all its tests, so there cannot be any
 tests of this.
+
+=back
+
+=head1 HISTORY
+
+=over
+
+=item 0.09 2018-09-26
+
+Additional word pairs coloured, colouration, mouldy, vapourise,
+vapourisation.
+
+Ambiguous spellings (check/cheque, meter/metre) no longer converted
+when using the C<s> option.
+
+Some pairs incorrectly marked as spelling-only (towards, mum)
+restored.
 
 =back
 

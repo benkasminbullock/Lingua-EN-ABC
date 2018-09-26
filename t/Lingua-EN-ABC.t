@@ -37,6 +37,14 @@ my $aluminium_in = 'aluminium aeroplane';
 my $aluminium_out = a2b ($aluminium_in, s => 1);
 is ($aluminium_out, $aluminium_in, "spelling-only does not change $aluminium_in"); 
 
+my $sc = 'somber-colored';
+my $sc_out = a2b ($sc);
+is ($sc_out, 'sombre-coloured', "coloured");
+
+my $vp = 'vaporized';
+my $vp_out = a2b ($vp);
+is ($vp_out, 'vapourised');
+
 # Github issue 1.
 
 TODO: {

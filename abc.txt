@@ -154,6 +154,7 @@ b: cheque
 a: check
 c: b
 s: true
+m: true
 
 b: civilisation
 a: civilization
@@ -182,6 +183,21 @@ s: true
 
 b: colour
 a: color
+c: b
+s: true
+
+b: coloured
+a: colored
+c: b
+s: true
+
+b: vapourised
+a: vaporized
+c: b
+s: true
+
+b: vapourisation
+a: vaporization
 c: b
 s: true
 
@@ -491,10 +507,14 @@ a: mold
 c: b
 s: true
 
+b: mouldy
+a: moldy
+c: b
+s: true
+
 b: mum
 a: mom
 c: b
-s: true
 
 b: mummy
 a: mommy
@@ -1677,7 +1697,6 @@ s: true
 b: speciality
 a: specialty
 c: a
-s: true
 
 b: spiralled
 a: spiraled
@@ -1764,7 +1783,6 @@ s: true
 b: towards
 a: toward
 c: a
-s: true
 
 b: tranquillity
 a: tranquility
@@ -1897,4 +1915,10 @@ c: b
 b: over
 a: overly
 c: a
+
+b: sensitise
+a: sensitize
+c: a
+s: true
+o: true
 

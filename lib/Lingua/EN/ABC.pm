@@ -11,7 +11,7 @@ use Carp;
 use JSON::Parse 'json_file_to_perl';
 use Convert::Moji 'make_regex';
 
-our $VERSION = '0.08';
+our $VERSION = '0.09';
 
 # Load the data from the file.
 
@@ -62,7 +62,7 @@ for my $e (@$abc) {
 
 for my $k (keys %any2e) {
     my $e = $any2e{$k};
-    if ($e->{s}) {
+    if ($e->{s} && ! ($e->{bam} || $e->{aam})) {
 	push @as, $e->{a};
 	push @bs, $e->{b};
     }
