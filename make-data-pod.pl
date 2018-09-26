@@ -10,7 +10,7 @@ system ("$Bin/make-json.pl");
 my $in = "$Bin/lib/Lingua/EN/ABC/abc.json";
 my $out = "$Bin/lib/Lingua/EN/ABC/Data.pod";
 my $words = json_file_to_perl ($in);
-my $headers = [qw/American British Canadian BrAmbig? AmAmbig? Oxford?/];
+my $headers = [qw/American British Canadian BrAmbig? AmAmbig? Oxford? SpellOnly?/];
 my @words = sort {lc $a->{a} cmp lc $b->{a}} @$words;
 my @table;
 push @table, $headers;
@@ -24,7 +24,7 @@ for my $word (@words) {
     else {
 	push @row, $word->{b};
     }
-    for my $field (qw/bam aam oxford/) {
+    for my $field (qw/bam aam oxford s/) {
 	if ($word->{$field}) {
 	    push @row, 'Y';
 	}

@@ -66,6 +66,21 @@ TODO: {
     like ($warning, qr/ambiguous/i, "Warning has correct form");
 };
 
+#TODO: {
+#    local $TODO = 'plurals';
+    my $behaviors = 'behaviors';
+    my $behaviours = a2b ($behaviors);
+    is ($behaviours, 'behaviours');
+    my $behaviorsround = b2a ($behaviours);
+    is ($behaviorsround, $behaviors);
+
+    my $colors = 'colors';
+    my $colours = a2b ($colors);
+    is ($colours, 'colours');
+    my $colorsround = b2a ($colours);
+    is ($colorsround, $colors);
+#};
+
 done_testing ();
 
 
