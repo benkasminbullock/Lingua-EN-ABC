@@ -616,15 +616,21 @@ a: pretense
 c: b
 s: true
 
+# American prize for winning and prize off a lid, British prise off a
+# lid but prize for winning
 b: prise
 a: prize
 c: b
 s: true
+n: true
 
+# British uses program for computer program but programme for theatre
+# programme.
 b: programme
 a: program
 c: a
 s: true
+m: true
 
 b: pyjamas
 a: pajamas
@@ -1066,15 +1072,16 @@ a: dolor
 c: b
 s: true
 
+# a could be either
 b: doughnut
 a: donut
 c: b
+n: true
 s: true
 
 b: dreamt
 a: dreamed
 c: b
-s: true
 
 b: duelled
 a: dueled
@@ -1518,6 +1525,11 @@ a: pedophile
 c: a
 s: true
 
+b: paedophilia
+a: pedophilia
+c: a
+s: true
+
 b: penalisation
 a: penalization
 c: a
@@ -1553,8 +1565,10 @@ c: a
 o: t
 s: true
 
-b: (verb)practise
+# British can be practise (verb) or practice (noun)
+b: practise
 a: practice
+m: true
 c: practise
 s: true
 
