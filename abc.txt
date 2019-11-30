@@ -1938,3 +1938,6 @@ c: a
 s: true
 o: true
 
+b: lorry
+a: truck
+c: a
