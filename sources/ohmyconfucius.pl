@@ -4,8 +4,8 @@ use strict;
 use utf8;
 use FindBin '$Bin';
 use Path::Tiny;
-use JSON::Parse 'json_file_to_perl';
-my $have = json_file_to_perl ("$Bin/../lib/Lingua/EN/ABC/abc.json");
+use JSON::Parse 'read_json';
+my $have = read_json ("$Bin/../lib/Lingua/EN/ABC/abc.json");
 my %american;
 my %british;
 for my $words (@$have) {

@@ -8,7 +8,7 @@ require Exporter;
 use warnings;
 use strict;
 use Carp;
-use JSON::Parse 'json_file_to_perl';
+use JSON::Parse 'read_json';
 use Convert::Moji 'make_regex';
 
 our $VERSION = '0.10';
@@ -17,7 +17,7 @@ our $VERSION = '0.10';
 
 my $json = __FILE__;
 $json =~ s!\.pm$!/abc.json!;
-my $abc = json_file_to_perl ($json);
+my $abc = read_json ($json);
 
 # American
 my @a;
