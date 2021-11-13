@@ -1,5 +1,9 @@
 Revision history for perl module Lingua::EN::ABC
 
+0.11_01 2021-11-13 22:25:44
+
+* Bug due to dependency on version of JSON::Parse
+
 0.11 2021-11-08
 
 * More vocabulary added
