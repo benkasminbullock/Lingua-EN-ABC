@@ -11,7 +11,7 @@ use Carp;
 use JSON::Parse 'read_json';
 use Convert::Moji 'make_regex';
 
-our $VERSION = '0.11_01';
+our $VERSION = '0.12';
 
 # Load the data from the file.
 
